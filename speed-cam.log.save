@@ -1,0 +1,8 @@
+2020-10-11 16:53:19 INFO     <module>   pluginEnabled - loading pluginName /home/pi/speed-camera/plugins/picam240.py
+2020-10-11 16:53:19 INFO     <module>   Copy /home/pi/speed-camera/plugins/picam240.py to /home/pi/speed-camera/plugins/current.py
+2020-10-11 16:53:19 INFO     <module>   Import Plugin /home/pi/speed-camera/plugins/picam240.py
+2020-10-11 16:53:21 INFO     <module>   Pi Camera Module is Enabled and Connected supported=1 detected=1
+2020-10-11 16:53:21 ERROR    <module>   Could Not import cv2 library
+2020-10-11 16:53:21 ERROR    <module>   python2 failed to import cv2
+2020-10-11 16:53:21 ERROR    <module>   Try RPI Install per command
+2020-10-11 16:53:21 ERROR    <module>   speed-cam.py 10.10 Exiting Due to Error
